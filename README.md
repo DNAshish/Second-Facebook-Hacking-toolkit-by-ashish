@@ -16,3 +16,6 @@ $ bash install.sh<br><br>
 
 
 I will not be responsible for anything wrong happened with u.
+
+
+Credit goes to the Author
